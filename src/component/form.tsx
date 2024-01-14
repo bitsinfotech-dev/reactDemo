@@ -3,7 +3,9 @@ import React from "react";
 const form = () => {
   return (
     <div>
-      <form></form>
+      <form>
+        <input></input>
+      </form>
     </div>
   );
 };
